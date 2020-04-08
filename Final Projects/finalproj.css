@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url("sky.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    background-color: lightgray;
+}
+#container{
+    background-color: lightgray;
+}
+#aboutme{
+    width: 500px; height: 250px;
+    alignment: center;
+}
